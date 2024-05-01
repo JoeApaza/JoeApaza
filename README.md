@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZmNmV3dzUyZ3o4azZwaXJmdGxhYmFkeGhnczBndjduMDRlcjV6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8jWYd7UElxpe8kpdey/giphy.gif" width="150"/> Bienvenido al GitHub de Joe Apaza
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZmNmV3dzUyZ3o4azZwaXJmdGxhYmFkeGhnczBndjduMDRlcjV6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8jWYd7UElxpe8kpdey/giphy.gif" width="140"/> Bienvenido al GitHub de Joe Apaza
 ![Header](./github-header-image.png)
 
 
