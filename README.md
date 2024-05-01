@@ -23,4 +23,5 @@ Es un espacio dedidacado a aprender y compartir conocimientos en programacion y 
 ## Estadisticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeApaza&layout=compact&theme=tokyonight)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeApaza&show_icons=true&theme=tokyonight)
 
