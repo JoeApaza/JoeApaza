@@ -8,7 +8,7 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-Es un espacio dedidacado a aprender y compartir conocimientos en programacion y tecnología.Estamos aquí para aprender juntos, resolver desafios, mejorando dia a dia y alcanzar las metas.
+Es un espacio dedidacado a aprender y compartir conocimientos en programacion y tecnología.Estamos aquí para aprender juntos, resolver desafios, mejorando dia a dia y alcanzar nuestras metas.
 
 ## Tecnologias
 
